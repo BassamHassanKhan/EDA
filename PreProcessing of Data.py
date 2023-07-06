@@ -43,7 +43,7 @@ plt.ylabel('age of car')
 plt.title('Box plot')
 plt.show()
 
-# Assuming you have a pandas DataFrame called 'df' containing your dataset
+
 
 # List to store the non-categorical column names
 non_categorical_columns = []
